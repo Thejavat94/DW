@@ -24,6 +24,7 @@ public:
 	bool derecha;
 	Vec2 pos;
 	int velocidad;
+	int potencia;
 };
 
 #endif
